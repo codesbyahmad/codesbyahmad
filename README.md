@@ -1,7 +1,7 @@
 <!-- Paste into README.md of the repo named exactly: codesbyahmad -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1E3A5F,100:0D2137&height=160&section=header&text=AHMAD%20SHERAZ&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20AI%20Engineer-in-the-making&descAlignY=58&descSize=15" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,100:1E3A5F&height=180&section=header&text=AHMAD%20SHERAZ&fontSize=42&fontColor=fff&fontAlignY=40&desc=Robotics%20%26%20AI%20Engineer-in-the-making&descAlignY=60&descSize=16" width="100%" alt="Ahmad Sheraz"/>
 </p>
 
 <h1 align="center">⚡ AHMAD SHERAZ ⚡</h1>
@@ -206,10 +206,21 @@
 <br/>
 
 <p align="center">
-  <b>Let's build something together.</b><br/>
-  <a href="mailto:ahmadshiraz912@icloud.com">ahmadshiraz912@icloud.com</a>
+  <b>Let's build something together.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1E3A5F,100:0D2137&height=120&section=footer" alt="waving ocean footer"/>
+  <a href="mailto:ahmadshiraz912@icloud.com?subject=Hello%20Ahmad%20—%20let's%20collaborate">
+    <img src="https://img.shields.io/badge/📧%20Email%20me-ahmadshiraz912%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ahmad"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:ahmadshiraz912@icloud.com?subject=Internship%20/%20Collaboration"><img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-0EA5E9?style=for-the-badge" alt="Open to collabs"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ahmad-shiraz"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,100:1E3A5F&height=120&section=footer" width="100%" alt="wave"/>
 </p>
