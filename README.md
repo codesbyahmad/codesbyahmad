@@ -1,79 +1,68 @@
-<!-- Paste into the README.md of the repo named exactly: codesbyahmad -->
+<!-- Paste into README.md of the repo named exactly: codesbyahmad -->
 
-<!-- ===================== HEADER ===================== -->
-<div align="center">
+<h1 align="center">⚡ AHMAD SHERAZ ⚡</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Ahmad%20Sheraz&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Robotics%20%26%20AI%20Engineer-in-the-making&descAlignY=58&descSize=20&animation=fadeIn" alt="header" width="100%"/>
+<h3 align="center">Robotics &amp; AI Engineer-in-the-making</h3>
 
-<a href="https://github.com/codesbyahmad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2EA8FF&center=true&vCenter=true&width=700&lines=I+build+robots+that+sense+and+act+%F0%9F%A4%96;I+ship+AI+apps+people+actually+use+%F0%9F%A7%A0;ROS+2+%C2%B7+ESP32+%C2%B7+LangChain+%C2%B7+OpenCV;Robotics+%26+AI+student+%40+University+of+Lahore" alt="Typing intro"/>
-</a>
+<p align="center">
+  <b>ROS 2</b> &nbsp;•&nbsp; <b>Embedded Systems</b> &nbsp;•&nbsp; <b>LLM Apps</b> &nbsp;•&nbsp; <b>Computer Vision</b>
+</p>
 
-<br/>
+<p align="center">
+  <i>I build robots that sense and act, and AI apps that people actually use.</i>
+</p>
 
-<a href="https://codesbyahmad.github.io/MY_Portfolio"><img src="https://img.shields.io/badge/Portfolio-2EA8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/ahmad-shiraz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ahmadshiraz912@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=codesbyahmad&label=Profile%20views&color=2c5364&style=for-the-badge" alt="views"/>
+<p align="center">
+  <a href="https://codesbyahmad.github.io/MY_Portfolio"><img src="https://img.shields.io/badge/Portfolio-2EA8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ahmad-shiraz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ahmadshiraz912@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/github/followers/codesbyahmad?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=codesbyahmad&label=Profile%20views&color=2c5364&style=for-the-badge" alt="Views"/>
+</p>
 
-</div>
+---
 
-<br/>
+## 🔭 What I'm up to
 
-## 👨‍💻 About me
+- 🚧 **Building now:** a solar panel cleaning robot (ESP32 + Firebase) and a Limo robot system on ROS 2
+- 🎓 **Studying:** BS Robotics &amp; AI, University of Lahore (2023 – 2028)
+- 🏅 **Certified:** Microsoft Azure Fundamentals · AI Certification (NAVTTC, Govt. of Pakistan)
+- 📫 **Open to:** robotics, AI and embedded internships and collaborations
 
-```yaml
-name:        Ahmad Sheraz
-location:    Lahore, Pakistan 🇵🇰
-studying:    BS Robotics & Artificial Intelligence @ University of Lahore (2023 – 2028)
-focus:       Robotics · AI Systems · Computer Vision
-building:    Solar cleaning robot (ESP32) + Limo robot system (ROS 2)
-certified:   Azure Fundamentals · NAVTTC AI Certification
-open_to:     Robotics / AI / embedded internships & collaborations
-```
+> I like turning ideas into working prototypes fast, then refining them until they hold up in front of real users.
 
-> I like turning ideas into working prototypes fast: a 6-DOF arm, a RAG support agent, a gesture-tracking pipeline. Then I keep refining them until they hold up in front of real users.
-
-<br/>
+---
 
 ## 🛠️ Tech stack
 
-<div align="center">
+**🤖 Robotics &amp; Embedded**<br/>
+<img src="https://img.shields.io/badge/ROS%202%20Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2 Humble"/>
+<img src="https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux"/>
 
-**🤖 Robotics & Embedded**
+**🧠 AI &amp; LLM Apps**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
-![ROS 2](https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=gazebo&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+**👁️ Computer Vision**<br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe"/>
 
-**🧠 AI & LLM Apps**
+**⚙️ Tools &amp; Deployment**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**👁️ Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-
-**⚙️ Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-</div>
-
-<br/>
+---
 
 ## 🚀 Featured projects
 
@@ -96,6 +85,20 @@ open_to:     Robotics / AI / embedded internships & collaborations
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📈 MarketMind AI</h3>
+      <p>Autonomous business research agent that generates <b>management-consultancy market intelligence briefs</b>. Native Python with schema-validated tool calling, evidence tracking, real-time API cost calculation and a <b>human approval gate</b> before export.</p>
+      <sub><code>Python</code> · <code>Tool calling</code> · <code>Streamlit</code></sub><br/><br/>
+      <a href="https://marketmindaii.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖼️ See &amp; Describe</h3>
+      <p>Multi-modal vision app that analyzes live video or uploaded media, detects objects, generates scene descriptions with <b>vision-language transformers</b>, translates them and <b>reads them aloud</b>. Built for assistive robotics and HCI.</p>
+      <sub><code>Computer Vision</code> · <code>Vision-Language</code> · <code>TTS</code> · <code>Streamlit</code></sub><br/><br/>
+      <a href="https://see-and-describe-4fx7u5s5hldcnsxwabqdgn.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>💰 FinWise AI</h3>
       <p>Personal finance advisor that <b>predicts savings</b> and alerts users to future money shortfalls before they happen.</p>
       <sub><code>Streamlit</code> · <code>LangChain</code> · <code>Gemini API</code></sub><br/><br/>
@@ -110,21 +113,7 @@ open_to:     Robotics / AI / embedded internships & collaborations
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 MarketMind AI</h3>
-      <p>Autonomous business research agent that generates <b>management-consultancy market intelligence briefs</b>. Native Python with schema-validated tool calling, evidence tracking, real-time API cost calculation and a <b>human approval gate</b> before report export.</p>
-      <sub><code>Python</code> · <code>Tool calling</code> · <code>Streamlit</code></sub><br/><br/>
-      <a href="https://marketmindaii.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🖼️ See &amp; Describe</h3>
-      <p>Multi-modal vision app that analyzes live video or uploaded media, detects objects, generates scene descriptions with <b>vision-language transformers</b>, translates them across languages and <b>reads them aloud</b>. Built for assistive robotics and HCI.</p>
-      <sub><code>Computer Vision</code> · <code>Vision-Language</code> · <code>TTS</code> · <code>Streamlit</code></sub><br/><br/>
-      <a href="https://see-and-describe-4fx7u5s5hldcnsxwabqdgn.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👁️ Low Vision Assessment</h3>
+      <h3>🩻 Low Vision Assessment</h3>
       <p>18-task assessment tool built for an external user in <b>2 working days</b>, with participant records and <b>Excel/CSV export</b>.</p>
       <sub><code>Web app</code> · <code>Render</code></sub><br/><br/>
       <a href="https://low-vision-assessment.onrender.com/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
@@ -138,7 +127,7 @@ open_to:     Robotics / AI / embedded internships & collaborations
   </tr>
 </table>
 
-### 🤖 Vision & robotics
+### 🤖 Vision &amp; robotics
 
 <table>
   <tr>
@@ -171,52 +160,9 @@ open_to:     Robotics / AI / embedded internships & collaborations
   </tr>
 </table>
 
-<br/>
+---
 
-## 🧭 How I build
-
-```mermaid
-flowchart LR
-    A[Idea] --> B[Rapid prototype]
-    B --> C[Test with real users]
-    C --> D[Refine & document]
-    D --> E[Deploy]
-    C -.feedback.-> B
-```
-
-<br/>
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codesbyahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyahmad&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbyahmad&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
-
-<br/>
-
-## 🎓 Education & certifications
-
-- 🎓 **BS Robotics & Artificial Intelligence**, University of Lahore (Sept 2023 – May 2028, expected)
-- ☁️ **Microsoft Certified: Azure Fundamentals**
-- 🏅 **AI Certification**, NAVTTC, Govt. of Pakistan (Tech Joint Lahore), covering Machine Learning, Deep Learning and Agentic AI
-
-<br/>
-
-## 🤝 Let's connect
-
-I'm open to **robotics, AI and embedded internships and collaborations**. Email is the fastest way to reach me.
-
-<div align="center">
-
-<a href="mailto:ahmadshiraz912@icloud.com"><img src="https://img.shields.io/badge/Say_hello-ahmadshiraz912%40icloud.com-2EA8FF?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="footer" width="100%"/>
-
-</div>
+<p align="center">
+  <b>Let's build something together.</b><br/>
+  <a href="mailto:ahmadshiraz912@icloud.com">ahmadshiraz912@icloud.com</a>
+</p>
