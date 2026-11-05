@@ -27,10 +27,10 @@
 
 ### 🔭 What I'm up to
 
-- 🚧 **Building now:** a solar panel cleaning robot (ESP32 + Firebase) and a Limo robot system on ROS 2  
-- 🎓 **Studying:** BS Robotics & AI, University of Lahore (2023 – 2028)  
-- 🏅 **Certified:** Microsoft Azure Fundamentals · AI Certification (NAVTTC, Govt. of Pakistan)  
-- 📫 **Open to:** robotics, AI and embedded internships and collaborations  
+- 🚧 **Building now:** a solar panel cleaning robot (ESP32 + Firebase) and a Limo robot system on ROS 2
+- 🎓 **Studying:** BS Robotics & AI, University of Lahore (2023 – 2028)
+- 🏅 **Certified:** Microsoft Azure Fundamentals · AI Certification (NAVTTC, Govt. of Pakistan)
+- 📫 **Open to:** robotics, AI and embedded internships and collaborations
 
 > I like turning ideas into working prototypes fast, then refining them until they hold up in front of real users.
 
