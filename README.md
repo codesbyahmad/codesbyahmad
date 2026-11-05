@@ -1,10 +1,10 @@
 <!-- Paste into README.md of the repo named exactly: codesbyahmad -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1E3A5F,100:0D2137&height=180&section=header&text=AHMAD%20SHERAZ&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer-in-the-making&descAlignY=55&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1E3A5F,100:0D2137&height=160&section=header&text=AHMAD%20SHERAZ&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20AI%20Engineer-in-the-making&descAlignY=58&descSize=15" alt="header"/>
 </p>
 
-<h1 align="center"> AHMAD SHERAZ </h1>
+<h1 align="center">⚡ AHMAD SHERAZ ⚡</h1>
 <h3 align="center">Robotics &amp; AI Engineer-in-the-making</h3>
 
 <p align="center">
@@ -27,10 +27,10 @@
 
 ### 🔭 What I'm up to
 
-- 🚧 **Building now:** a solar panel cleaning robot (ESP32 + Firebase) and a Limo robot system on ROS 2
-- 🎓 **Studying:** BS Robotics & AI, University of Lahore (2023 – 2028)
-- 🏅 **Certified:** Microsoft Azure Fundamentals · AI Certification (NAVTTC, Govt. of Pakistan)
-- 📫 **Open to:** robotics, AI and embedded internships and collaborations
+- 🚧 **Building now:** a solar panel cleaning robot (ESP32 + Firebase) and a Limo robot system on ROS 2  
+- 🎓 **Studying:** BS Robotics & AI, University of Lahore (2023 – 2028)  
+- 🏅 **Certified:** Microsoft Azure Fundamentals · AI Certification (NAVTTC, Govt. of Pakistan)  
+- 📫 **Open to:** robotics, AI and embedded internships and collaborations  
 
 > I like turning ideas into working prototypes fast, then refining them until they hold up in front of real users.
 
@@ -69,132 +69,136 @@
 
 ### 🚀 Featured projects
 
-#### 🧠 AI Apps
+#### 🧠 AI apps
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🩺 MedGuide AI</h3>
       <p>Medical assessment app that gives <b>source-backed guidance</b> from current medical resources. Refined over several versions and tested by real users.</p>
+      <p><code>Streamlit</code> · <code>LangChain</code> · <code>OpenAI</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Gold-D4AF37?style=flat-square" alt="Gold"/>
-        <code>Streamlit</code> · <code>LangChain</code> · <code>OpenAI</code>
+        <a href="https://mediguide-clinical-aii.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://mediguide-clinical-aii.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>💬 SupportPearlz AI</h3>
       <p>RAG customer-support agent answering from <b>PDF, DOCX, CSV and Markdown</b>, with <b>similarity-gated retrieval</b> to reduce hallucinations.</p>
+      <p><code>LangChain</code> · <code>ChromaDB</code> · <code>OpenAI</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Silver-C0C0C0?style=flat-square" alt="Silver"/>
-        <code>LangChain</code> · <code>ChromaDB</code> · <code>OpenAI</code>
+        <a href="https://supportpearlz-ai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://supportpearlz-ai.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 MarketMind AI</h3>
-      <p>Autonomous business research agent that generates <b>management-consultancy market intelligence briefs</b>. Native Python with schema-validated tool calling, evidence tracking, real-time API cost calculation and a <b>human approval gate</b> before export.</p>
+      <p>Autonomous business research agent that generates <b>management-consultancy market intelligence briefs</b>. Schema-validated tool calling, evidence tracking, cost metering, and a <b>human approval gate</b>.</p>
+      <p><code>Python</code> · <code>Tool calling</code> · <code>Streamlit</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Gold-D4AF37?style=flat-square" alt="Gold"/>
-        <code>Python</code> · <code>Tool calling</code> · <code>Streamlit</code>
+        <a href="https://marketmindaii.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://marketmindaii.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🖼️ See &amp; Describe</h3>
-      <p>Multi-modal vision app that analyzes live video or uploaded media, detects objects, generates scene descriptions with <b>vision-language transformers</b>, translates them and <b>reads them aloud</b>. Built for assistive robotics and HCI.</p>
+      <p>Multi-modal vision app that analyzes live video or uploaded media, detects objects, generates scene descriptions, translates them and <b>reads them aloud</b>. Built for assistive robotics and HCI.</p>
+      <p><code>Computer Vision</code> · <code>Vision-Language</code> · <code>TTS</code> · <code>Streamlit</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Silver-C0C0C0?style=flat-square" alt="Silver"/>
-        <code>Computer Vision</code> · <code>Vision-Language</code> · <code>TTS</code> · <code>Streamlit</code>
+        <a href="https://see-and-describe-4fx7u5s5hldcnsxwabqdgn.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://see-and-describe-4fx7u5s5hldcnsxwabqdgn.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💰 FinWise AI</h3>
       <p>Personal finance advisor that <b>predicts savings</b> and alerts users to future money shortfalls before they happen.</p>
+      <p><code>Streamlit</code> · <code>LangChain</code> · <code>Gemini API</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Gold-D4AF37?style=flat-square" alt="Gold"/>
-        <code>Streamlit</code> · <code>LangChain</code> · <code>Gemini API</code>
+        <a href="https://finwiseai-ai.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://finwiseai-ai.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧬 Helix AI</h3>
       <p>Custom ChatGPT-style AI agent that routes a LangChain pipeline through the OpenAI API to LLMs.</p>
+      <p><code>Streamlit</code> · <code>LangChain</code> · <code>OpenAI API</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Silver-C0C0C0?style=flat-square" alt="Silver"/>
-        <code>Streamlit</code> · <code>LangChain</code> · <code>OpenAI API</code>
+        <a href="https://helix-aii.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://helix-aii.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🩻 Low Vision Assessment</h3>
       <p>18-task assessment tool built for an external user in <b>2 working days</b>, with participant records and <b>Excel/CSV export</b>.</p>
+      <p><code>Web app</code> · <code>Render</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Gold-D4AF37?style=flat-square" alt="Gold"/>
-        <code>Web app</code> · <code>Render</code>
+        <a href="https://low-vision-assessment.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://low-vision-assessment.onrender.com/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>📂 More on GitHub</h3>
-      <p>Smaller experiments, data analysis and web projects, including a <a href="https://codesbyahmad.github.io/ramdan-countdown/">Ramadan countdown</a>.</p>
+      <p>Smaller experiments, data analysis and web projects, including a <a href="https://ahmiii-18.github.io/ramdan-countdown/">Ramadan countdown</a>.</p>
+      <p><code>Python</code> · <code>JavaScript</code> · <code>HTML</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Silver-C0C0C0?style=flat-square" alt="Silver"/>
-        <code>Python</code> · <code>JavaScript</code> · <code>HTML</code>
+        <a href="https://github.com/codesbyahmad?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
       </p>
-      <a href="https://github.com/codesbyahmad?tab=repositories">📦 All repositories</a>
     </td>
   </tr>
 </table>
 
-#### 🤖 Vision & Robotics
+#### 🤖 Vision & robotics
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🖐️ Gesture Controller</h3>
       <p>Real-time <b>gesture recognition and tracking</b> pipeline built on computer vision.</p>
+      <p><code>OpenCV</code> · <code>MediaPipe</code> · <code>Streamlit</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Gold-D4AF37?style=flat-square" alt="Gold"/>
-        <code>OpenCV</code> · <code>MediaPipe</code> · <code>Streamlit</code>
+        <a href="https://gesture-controller.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+        &nbsp;
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="https://gesture-controller.streamlit.app/">🔗 Live demo</a> &nbsp;|&nbsp; <a href="<repo-url>">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>☀️ Solar Cleaning Robot</h3>
       <p>Crawling robot that cleans solar panels with a roller microfiber brush and water nozzle. Edge sensors and motors handle repositioning, with cloud sync.</p>
+      <p><code>Arduino</code> · <code>ESP32</code> · <code>Firebase</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Silver-C0C0C0?style=flat-square" alt="Silver"/>
-        <code>Arduino</code> · <code>ESP32</code> · <code>Firebase</code>
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="<repo-url>">💻 Code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 Limo Robot System</h3>
       <p>Recreates the fundamental working system of a Limo robot with sensors, motors and a controller, tested in <b>Gazebo simulation</b>.</p>
+      <p><code>ROS 2 Humble</code> · <code>Gazebo</code> · <code>Linux</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Gold-D4AF37?style=flat-square" alt="Gold"/>
-        <code>ROS 2 Humble</code> · <code>Gazebo</code> · <code>Linux</code>
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="<repo-url>">💻 Code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🦾 6-DOF Robotic Arm</h3>
       <p>Prototype-scale version of the industrial 6-DOF arm, built with a controller, servos and motors.</p>
+      <p><code>Servo control</code> · <code>Embedded</code></p>
       <p>
-        <img src="https://img.shields.io/badge/-Silver-C0C0C0?style=flat-square" alt="Silver"/>
-        <code>Servo control</code> · <code>Embedded</code>
+        <a href="https://github.com/codesbyahmad"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </p>
-      <a href="<repo-url>">💻 Code</a>
     </td>
   </tr>
 </table>
