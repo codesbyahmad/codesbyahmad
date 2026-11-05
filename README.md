@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1628,50:1E3A5F,100:0D2137&height=180&section=header&text=AHMAD%20SHERAZ&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer-in-the-making&descAlignY=55&descSize=16" alt="header"/>
 </p>
 
-<h1 align="center">⚡ AHMAD SHERAZ ⚡</h1>
+<h1 align="center"> AHMAD SHERAZ </h1>
 <h3 align="center">Robotics &amp; AI Engineer-in-the-making</h3>
 
 <p align="center">
