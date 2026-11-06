@@ -1,4 +1,4 @@
-<h1 align="center">⚡ AHMAD SHERAZ ⚡</h1>
+<h1 align="center"> AHMAD SHERAZ </h1>
 
 <h3 align="center">Robotics &amp; AI Engineer-in-the-making</h3>
 
