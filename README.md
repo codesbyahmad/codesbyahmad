@@ -68,30 +68,30 @@
 
 <p align="center">
 <img src="assets/cards/medguide-ai.svg" width="49%" alt="MedGuide AI"/><img src="assets/cards/supportpearlz-ai.svg" width="49%" alt="SupportPearlz AI"/><br/>
-<a href="https://mediguide-clinical-aii.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://supportpearlz-ai.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a>
+<a href="https://mediguide-clinical-aii.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/medguide-ai"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://supportpearlz-ai.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/supportpearlz-ai"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a>
 </p>
 <p align="center">
 <img src="assets/cards/marketmind-ai.svg" width="49%" alt="MarketMind AI"/><img src="assets/cards/see-describe.svg" width="49%" alt="See &amp; Describe"/><br/>
-<a href="https://marketmindaii.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://see-and-describe-4fx7u5s5hldcnsxwabqdgn.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a>
+<a href="https://marketmindaii.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/marketmind-ai"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://see-and-describe-4fx7u5s5hldcnsxwabqdgn.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/see-describe"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a>
 </p>
 <p align="center">
 <img src="assets/cards/finwise-ai.svg" width="49%" alt="FinWise AI"/><img src="assets/cards/helix-ai.svg" width="49%" alt="Helix AI"/><br/>
-<a href="https://finwiseai-ai.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://helix-aii.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a>
+<a href="https://finwiseai-ai.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/finwise-ai"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://helix-aii.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/helix-ai"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a>
 </p>
 <p align="center">
 <img src="assets/cards/low-vision-assessment.svg" width="49%" alt="Low Vision Assessment"/><img src="assets/cards/more-on-github.svg" width="49%" alt="More on GitHub"/><br/>
-<a href="https://low-vision-assessment.onrender.com/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://codesbyahmad.github.io/ramdan-countdown/"><img src="assets/buttons/ramadan_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad?tab=repositories"><img src="assets/buttons/repos_B.svg" width="31.03%" alt="Code"/></a>
+<a href="https://low-vision-assessment.onrender.com/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/low-vision-assessment"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://codesbyahmad.github.io/ramdan-countdown/"><img src="assets/buttons/ramadan_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad?tab=repositories"><img src="assets/buttons/repos_B.svg" width="31.03%" alt="Code"/></a>
 </p>
 
 ### 🤖 Vision &amp; robotics
 
 <p align="center">
 <img src="assets/cards/gesture-controller.svg" width="49%" alt="Gesture Controller"/><img src="assets/cards/solar-cleaning-robot.svg" width="49%" alt="Solar Cleaning Robot"/><br/>
-<a href="https://gesture-controller.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_A.svg" width="17.97%" alt="Code"/></a><img src="assets/buttons/blank_B.svg" width="31.03%" alt=""/>
+<a href="https://gesture-controller.streamlit.app/"><img src="assets/buttons/live_A.svg" width="17.97%" alt="Live demo"/></a><a href="https://github.com/codesbyahmad/gesture-controller"><img src="assets/buttons/code_B.svg" width="31.03%" alt="Code"/></a><a href="https://github.com/codesbyahmad/solar-cleaning-robot"><img src="assets/buttons/code_A.svg" width="17.97%" alt="Code"/></a><img src="assets/buttons/blank_B.svg" width="31.03%" alt=""/>
 </p>
 <p align="center">
 <img src="assets/cards/limo-robot-system.svg" width="49%" alt="Limo Robot System"/><img src="assets/cards/6-dof-robotic-arm.svg" width="49%" alt="6-DOF Robotic Arm"/><br/>
-<a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_A.svg" width="17.97%" alt="Code"/></a><img src="assets/buttons/blank_B.svg" width="31.03%" alt=""/><a href="https://github.com/codesbyahmad/REPO_NAME_HERE"><img src="assets/buttons/code_A.svg" width="17.97%" alt="Code"/></a><img src="assets/buttons/blank_B.svg" width="31.03%" alt=""/>
+<a href="https://github.com/codesbyahmad/limo-robot-system"><img src="assets/buttons/code_A.svg" width="17.97%" alt="Code"/></a><img src="assets/buttons/blank_B.svg" width="31.03%" alt=""/><a href="https://github.com/codesbyahmad/6-dof-robotic-arm"><img src="assets/buttons/code_A.svg" width="17.97%" alt="Code"/></a><img src="assets/buttons/blank_B.svg" width="31.03%" alt=""/>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
