@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270">
+<defs><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="480" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#5f6b78"/><stop offset="0.3" stop-color="#b9c2cc"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="0.7" stop-color="#b9c2cc"/><stop offset="1" stop-color="#5f6b78"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="480 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18202b"/><stop offset="1" stop-color="#0b0f14"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(38 18) scale(260)"><stop offset="0" stop-color="#c0c8d0" stop-opacity=".16"/><stop offset="1" stop-color="#c0c8d0" stop-opacity="0"/></radialGradient>
+<linearGradient id="tt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#c0c8d0"/><stop offset="1" stop-color="#8d99a6"/></linearGradient>
+<linearGradient id="band" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".13"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="clip"><rect x="8" y="8" width="464" height="254" rx="26"/></clipPath>
+<filter id="blur" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<rect x="8" y="8" width="464" height="254" rx="26" fill="none" stroke="url(#b)" stroke-width="3" opacity=".5" filter="url(#blur)"/>
+<rect x="8" y="8" width="464" height="254" rx="26" fill="url(#bg)"/>
+<rect x="8" y="8" width="464" height="254" rx="26" fill="url(#glow)"/>
+<g clip-path="url(#clip)"><g><rect x="-140" y="-20" width="90" height="310" fill="url(#band)" transform="skewX(-20)"/>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="780 0" dur="6s" repeatCount="indefinite"/></g></g>
+<rect x="8" y="8" width="464" height="254" rx="26" fill="none" stroke="url(#b)" stroke-width="2.4"/>
+<text x="34" y="58" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="url(#tt)">More on GitHub</text>
+<line x1="34" y1="72" x2="94" y2="72" stroke="#c0c8d0" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+<text x="34" y="92" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#b4bfcb" xml:space="preserve"><tspan>Smaller</tspan> <tspan>experiments,</tspan> <tspan>data</tspan> <tspan>analysis</tspan> <tspan>and</tspan> <tspan>web</tspan></text>
+<text x="34" y="114" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#b4bfcb" xml:space="preserve"><tspan>projects,</tspan> <tspan>including</tspan> <tspan>a</tspan> <tspan font-weight="700" fill="#ffffff">Ramadan</tspan> <tspan font-weight="700" fill="#ffffff">countdown</tspan> <tspan>built</tspan></text>
+<text x="34" y="136" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#b4bfcb" xml:space="preserve"><tspan>with</tspan> <tspan>plain</tspan> <tspan>HTML</tspan> <tspan>and</tspan> <tspan>JavaScript.</tspan></text>
+<rect x="34" y="214" width="64" height="26" rx="13" fill="#ffffff" fill-opacity=".05" stroke="#c0c8d0" stroke-opacity=".45"/><text x="66.0" y="231.5" text-anchor="middle" font-family="Consolas,'SFMono-Regular','DejaVu Sans Mono',monospace" font-size="12" fill="#e9eef3">Python</text><rect x="106" y="214" width="93" height="26" rx="13" fill="#ffffff" fill-opacity=".05" stroke="#c0c8d0" stroke-opacity=".45"/><text x="152.5" y="231.5" text-anchor="middle" font-family="Consolas,'SFMono-Regular','DejaVu Sans Mono',monospace" font-size="12" fill="#e9eef3">JavaScript</text><rect x="207" y="214" width="50" height="26" rx="13" fill="#ffffff" fill-opacity=".05" stroke="#c0c8d0" stroke-opacity=".45"/><text x="232.0" y="231.5" text-anchor="middle" font-family="Consolas,'SFMono-Regular','DejaVu Sans Mono',monospace" font-size="12" fill="#e9eef3">HTML</text>
+</svg>
